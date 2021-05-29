@@ -1,16 +1,18 @@
 *** Universal pipeline Rendering template**
 
-    `This project uses universal pipeline, Cinemachine(virtual camera) to capture and pack gesta furniture assets.`
+    This project uses universal pipeline, Cinemachine(virtual camera) to capture.
 
-    https://assetstore.unity.com/packages/3d/props/furniture/pack-gesta-furniture-1-28237
+    [Assets used here are below:]
 
-*** Unity version 2020.3.5 ***
+        (https://assetstore.unity.com/packages/3d/props/furniture/pack-gesta-furniture-1-28237)
 
-*** Clone the project ***
+Unity version 2020.3.5
 
-*** Install package if prompted ***
+Clone the project
 
-*** Voila ! You can customize now. ***
+Install package if prompted
 
-*** Final outcome is movie.mp4 on root folder ***
+Voila ! You can customize now.
+
+Final outcome is movie.mp4 on root folder
 
